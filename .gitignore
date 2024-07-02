@@ -1,0 +1,10 @@
+CMakeFiles
+CMakeCache.txt
+Debug
+Release
+x64
+x86 
+.vs
+*.vcxproj*
+*.sln
+*.exe
